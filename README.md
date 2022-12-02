@@ -1,5 +1,5 @@
 # Image-captioning
-!!! link git ko bao gồm dataset folder và pre-trained GLOVE model !!!<br />
+!!! link git chỉ chạy main.py do ko bao gồm dataset folder và pre-trained GLOVE model !!!<br />
 import lỗi gì pip install cái đó <br />
 lưu ý: để tải tensorflow mượt nhất, máy tính nên sử dụng intel CPU và NVIDIA GPU
 lỗi path ghi gì thì thêm cái đấy vào path <br /> <br />
